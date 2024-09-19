@@ -16,4 +16,3 @@ VALUES
 ('Sheep', 'Baa'),
 ('Goat', 'Bleat');
 
-SELECT * FROM ANIMALS;
