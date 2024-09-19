@@ -1,0 +1,10 @@
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\bin\Debug\BaiTap1ADONET.exe.config
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\bin\Debug\BaiTap1ADONET.exe
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\bin\Debug\BaiTap1ADONET.pdb
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.csproj.AssemblyReference.cache
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.Properties.Resources.resources
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.frmMain.resources
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.csproj.GenerateResource.cache
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.csproj.CoreCompileInputs.cache
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.exe
+B:\nam3_hk1\CongNgheDotNet\BT1_ADO.Net\Bài tập 1 - ADO.NET\BaiTap1ADONET\BaiTap1ADONET\obj\Debug\BaiTap1ADONET.pdb
