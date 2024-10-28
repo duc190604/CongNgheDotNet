@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model KTTH.Areas.Admin.Data.ProductStatisticsViewModel
+
+<section>
+    <h2>Thống Kê Sản Phẩm</h2>
+
+    <div>
+        <h3>Tổng số sản phẩm: @Model.TotalProducts</h3>
+    </div>
+
+    <div>
+        <h3>Số lượng sản phẩm theo loại</h3>
+        <ul>
+            @foreach (var category in Model.ProductsByCategory)
+            {
+                <li>Loại: @category.MaLoai - Số lượng: @category.SoLuong</li>
+            }
+        </ul>
+    </div>
+</section>
+
+
