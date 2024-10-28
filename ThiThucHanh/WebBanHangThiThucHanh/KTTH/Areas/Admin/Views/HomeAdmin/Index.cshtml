@@ -1,0 +1,52 @@
+﻿
+@using KTTH.Areas.Admin.ViewModel;
+@model IEnumerable<ProductCategoryShowViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var totalProducts = ViewBag.TotalProducts;
+}
+
+<h2>Dashboard</h2>
+
+<!-- Hiển thị tổng số sản phẩm -->
+<div class="card mt-3 mb-3">
+    <div class="card-header">
+        Tổng số sản phẩm
+    </div>
+    <div class="card-body">
+        <h3 class="card-title">@totalProducts</h3>
+    </div>
+</div>
+
+<!-- Hiển thị bảng loại sản phẩm -->
+<div class="card mt-3">
+    <div class="card-header">
+        Số lượng sản phẩm theo loại
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Mã Loại</th>
+                    <th>Tên Loại</th>
+                    <th>Số Lượng Sản Phẩm</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.MaLoai</td>
+                        <td>@item.TenLoai</td>
+                        <td>@item.SoLuong</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
