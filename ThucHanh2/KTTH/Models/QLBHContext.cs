@@ -65,7 +65,7 @@ namespace KTTH.Models
                 entity.Property(e => e.HangSx)
                     .HasMaxLength(255);
                 entity.Property(e => e.ThoiGianBaoHanh)
-                .HasMaxLength(255);
+                .HasPrecision(18, 2);
 
                 entity.Property(e => e.MaLoai)
                     .HasMaxLength(25)
